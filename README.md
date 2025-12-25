@@ -57,3 +57,5 @@ pip install pandas numpy scipy matplotlib seaborn scikit-learn statsmodels jupyt
 # Sta bih sledece unapredio
 Dodao eksplicitne metrike na test skupu (npr. RMSE/MAE/R2).
 Cross-validation (stabilnija procena performansi).
+
+Dataset preuzet sa: https://www.kaggle.com/
